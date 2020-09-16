@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "58kFQzOl9kTMQjHpaU/BQH+9S6n+dAMIdsgjjIMk8B72JXn9HzGyIht1S+isNn3RfTHaqw1hVtt03X4UCUXb7A==",
+  "dgSpecHash": "M457XSaPD/kSIsSVUWIMyC0Vnc6HGVfKUNORW1MxVkiXHKFi8aFvqNh5FZLOh2ooXm3c8rFt9oluYUIBzWPFTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeri\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject.csproj": {
+    "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
         "projectName": "ECommerceProject",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject.csproj",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\ECommerceProject\\ECommerceProject\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,17 +43,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.1, )"
             },
             "Moq": {
               "target": "Package",
