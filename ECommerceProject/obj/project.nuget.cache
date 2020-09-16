@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZxZJf/3NycqVpvkvyEmuva4/068zPIimrs3fhH/tNLTUYyco61EbqdtA5ADnGeMIyXA5hB1p8lrYdoW/IwqbA==",
+  "dgSpecHash": "++m0j8jsQ2V9UCQQxnVfRoee7vvcDZeSIqdYapEkYWv/slmEB9mdQ1cQGq1yz8kUArjhG1MD1wqokVj7gpVtag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeri\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

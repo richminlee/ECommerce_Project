@@ -6968,11 +6968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
+      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
       "projectName": "ECommerceProject",
-      "projectPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
+      "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj",
       "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\obj\\",
+      "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

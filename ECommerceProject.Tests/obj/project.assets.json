@@ -7878,11 +7878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
       "projectName": "ECommerceProject.Tests",
-      "projectPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
+      "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
       "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject.Tests\\obj\\",
+      "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7901,8 +7901,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj": {
-              "projectPath": "C:\\Users\\leeri\\Desktop\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj"
+            "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj": {
+              "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject\\ECommerceProject.csproj"
             }
           }
         }
