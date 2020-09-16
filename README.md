@@ -13,7 +13,7 @@ dotnet new xunit -o ECommerceProject.Tests --framework netcoreapp3.1
 dotnet sln ECommerceProject add ECommerceProject.Tests  
 dotnet add ECommerceProject.Tests reference ECommerceProject   
 
-### First Screenshot
+### Chapter 7 First Screenshot
 ![First Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%201.JPG)
 
 ### Questions:
@@ -29,5 +29,13 @@ dotnet add ECommerceProject.Tests reference ECommerceProject
   * Scaffolding is when you create the Models, Views and Constrollers from the database utilizing Scaffolding from ASP.NET. Migrations are when you update the database from your program.  
 * Seeding the database?
   * Seeding the Database is when you add the initial data into the database.
-### Last Screenshot
+### Chapter 7 Last Screenshot
 ![Last Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%202.JPG)
+### Chapter 8 First Screenshot
+![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-1.JPG)
+### Chapter 8 Second Screenshot
+![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-2.JPG)
+### Chapter 8 Third Screenshot
+![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-3.JPG)
+### Chapter 8 Fourth Screenshot
+![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-4.JPG)
