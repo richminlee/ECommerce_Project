@@ -13,8 +13,10 @@ dotnet new xunit -o ECommerceProject.Tests --framework netcoreapp3.1
 dotnet sln ECommerceProject add ECommerceProject.Tests  
 dotnet add ECommerceProject.Tests reference ECommerceProject   
 
+## Chapter 7
+
 ### Chapter 7 First Screenshot
-![First Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%201.JPG)
+![7-1 Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%201.JPG)
 
 ### Questions:
 * What is Entity Framework?
@@ -30,12 +32,26 @@ dotnet add ECommerceProject.Tests reference ECommerceProject
 * Seeding the database?
   * Seeding the Database is when you add the initial data into the database.
 ### Chapter 7 Last Screenshot
-![Last Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%202.JPG)
+![7-2 Screenshot](https://github.com/richminlee/ECommerceProject/blob/master/Screenshot%202.JPG)
+
+## Chapter 8
+
 ### Chapter 8 First Screenshot
-![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-1.JPG)
+![8-1 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-1.JPG)
 ### Chapter 8 Second Screenshot
-![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-2.JPG)
+![8-2 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-2.JPG)
 ### Chapter 8 Third Screenshot
-![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-3.JPG)
+![8-3 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-3.JPG)
 ### Chapter 8 Fourth Screenshot
-![Last Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-4.JPG)
+![8-4 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%208-4.JPG)
+
+## Chapter 9
+
+### Chapter 9 First Screenshot
+![9-1 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%209-1.JPG)
+### Chapter 9 Second Screenshot
+![9-2 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%209-2.JPG)
+### Chapter 9 Third Screenshot
+![9-3 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%209-3.JPG)
+### Chapter 9 Fourth Screenshot
+![9-4 Screenshot](https://github.com/richminlee/ECommerce_Project/blob/master/Screenshot%209-4.JPG)
