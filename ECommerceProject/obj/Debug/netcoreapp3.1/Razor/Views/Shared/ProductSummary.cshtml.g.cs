@@ -27,21 +27,21 @@ using ECommerceProject.Models.ViewModels;
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\Views\_ViewImports.cshtml"
+#line 3 "C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\Views\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\Views\_ViewImports.cshtml"
+#line 4 "C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\Views\_ViewImports.cshtml"
 using ECommerceProject.Infrastructure;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"44372b9546a7da286a00d54352343c7eae742b92", @"/Views/Shared/ProductSummary.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"547fe31a96825489228717946fb11df14d3b2131", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b1ec5c8950f08d395a8853e8c23642a087779f4f", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_ProductSummary : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Product>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("type", "hidden", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

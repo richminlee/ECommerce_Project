@@ -219,3 +219,7 @@ C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\ne
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
