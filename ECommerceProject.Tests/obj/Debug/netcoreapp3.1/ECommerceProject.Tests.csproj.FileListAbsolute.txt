@@ -394,7 +394,6 @@ C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\bin\De
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csprojAssemblyReference.cache
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.AssemblyInfoInputs.cache
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.AssemblyInfo.cs
-C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CoreCompileInputs.cache
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CopyComplete
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.dll
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.pdb
