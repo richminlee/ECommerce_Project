@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GcFrIsbPd6iNoeKHv9OckwGT35qhWQZa+gsu6uXwNdWYEHBbONMKAeckQoV9cLfIptmkGYvN7Tupnq2Zi5rfcg==",
+  "dgSpecHash": "ZGICwJImZFnp5B/vxar5/3Qb8Fowcr6+K8WvHImM5NKgTE4EggcIGXNisEIkYKv73Q16iVgXH74FVoIy3cA5Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\leeri\\Desktop\\Microsoft\\ECommerce_Project\\ECommerceProject.Tests\\ECommerceProject.Tests.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
-    "C:\\Users\\leeri\\.nuget\\packages\\microsoft.configuration.configurationbuilders.base\\2.0.0\\microsoft.configuration.configurationbuilders.base.2.0.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.1\\microsoft.entityframeworkcore.3.1.1.nupkg.sha512",
@@ -148,16 +147,5 @@
     "C:\\Users\\leeri\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Configuration.ConfigurationBuilders.Base 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Configuration.ConfigurationBuilders.Base",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
