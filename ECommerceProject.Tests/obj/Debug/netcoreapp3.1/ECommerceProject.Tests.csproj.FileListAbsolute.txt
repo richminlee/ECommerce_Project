@@ -398,3 +398,5 @@ C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\De
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.dll
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.pdb
 C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\leeri\Desktop\Microsoft\ECommerce_Project\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CoreCompileInputs.cache
